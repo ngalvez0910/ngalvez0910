@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Natalia González 👋
 
 <!--
 **ngalvez0910/ngalvez0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
