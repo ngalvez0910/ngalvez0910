@@ -1,3 +1,5 @@
+<img src="./imgs/banner.png" alt="Banner" borderRadius='1rem' boxShadow = '0 3px 10px rgba(0,0,0,0.3)' align="center">
+
 <h1>¡¡Hola, soy Natalia González!!☀️</h1>
 
 <img src="./imgs/octogato.png" width=24% align=left />
