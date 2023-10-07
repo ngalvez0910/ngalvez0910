@@ -6,7 +6,7 @@
 
 ¡Hola! Soy Natalia, una estudiante de desarrollo de aplicaciones web💻. Me encanta sumergirme en el mundo de la tecnología y utilizar mis habilidades para crear experiencias interactivas en línea.
 
-Además de mi interés por el desarrollo web, soy una gran fanática de los videojuegos🎮. Desde que era pequeña, los videojuegos han sido una parte importante de mi vida. Me encanta la emoción y la creatividad que se encuentran en los juegos. Hay varios géneros que me gustan, sin embargo, mi favorito sin duda alguna debe de ser VALORANT.
+Además de mi interés por el desarrollo web, soy una gran fanática de los videojuegos🎮. Desde que era pequeña, los videojuegos han sido una parte importante de mi vida. Me encanta la emoción y la creatividad que se encuentran en los juegos. Hay varios que me gustan, sin embargo, mi favorito sin duda alguna debe de ser VALORANT.
 
 <p align="center">
 <img src="./imgs/valorant.png" width=5% align=center />
@@ -15,3 +15,9 @@ Además de mi interés por el desarrollo web, soy una gran fanática de los vide
 Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros y artistas, y encuentro en la música una forma de expresión y conexión emocional. Me fascina cómo la tecnología ha transformado la industria musical, permitiendo una mayor accesibilidad y nuevas formas de crear y compartir música.
 
 Como estudiante de desarrollo de aplicaciones web, estoy emocionada por combinar mis intereses en los videojuegos, la música y la tecnología. Me encantaría explorar la creación de aplicaciones web interactivas relacionadas con la música y los videojuegos, y utilizar mi conocimiento para brindar experiencias únicas y atractivas a los usuarios.
+
+<h2>Música que escucho</h2>
+ -  Slow Down - Chase Atlantic💫 </br>
+ -  Natural - Imagine Dragons🎶 </br>
+ -  RED - The Rose🥀 </br>
+ -  Super Shy - New Jeans✨ </br>
