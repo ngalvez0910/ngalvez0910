@@ -20,4 +20,5 @@ Como estudiante de desarrollo de aplicaciones web, estoy emocionada por combinar
  -  Slow Down - Chase Atlantic💫 </br>
  -  Natural - Imagine Dragons🎶 </br>
  -  RED - The Rose🥀 </br>
- -  Super Shy - New Jeans✨ </br>
+ -  Espresso - Sabrina Carpenter☕✨ </br>
+ -  Tuta Gold - Mahmood🏆 </br>
