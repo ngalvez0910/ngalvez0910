@@ -2,7 +2,7 @@
 
 <h1>¡¡Hola, soy Natalia González!!☀️</h1>
 
-<img src="./imgs/octocat-1714904693708.png" width=24% align=left />
+<img src="./imgs/octocat.png" width=24% align=left />
 
 ¡Hola! Soy Natalia, una estudiante de desarrollo de aplicaciones web💻. Me encanta sumergirme en el mundo de la tecnología y utilizar mis habilidades para crear experiencias interactivas en línea.
 
