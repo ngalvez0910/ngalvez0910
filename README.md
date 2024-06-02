@@ -25,10 +25,7 @@ Como estudiante de desarrollo de aplicaciones web, estoy emocionada por combinar
 ### 📩Contacto
 Para contactar conmigo, puedes hacerlo a través de:
 
-<p align="center">
-<a href="https://github.com/ngalvez0910">
-  <img src="./imgs/github.png" width=6% align=center />
-</a>
+
  <a href="https://www.linkedin.com/in/natalia-gonz%C3%A1lez-%C3%A1lvarez-83ba53303/">
   <img src="./imgs/linkedin.png" width=5% align=center />
 </a>
