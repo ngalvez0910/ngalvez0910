@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Natalia González!☀️
 
-<img src="./imgs/octocat.png" width=24% align=left />
+<img src="./imgs/octocat.png" width=23% align=left />
 
 Soy una estudiante de desarrollo de aplicaciones web💻. Me encanta sumergirme en el mundo de la tecnología y utilizar mis habilidades para crear experiencias interactivas en línea.
 
@@ -14,12 +14,21 @@ Además de mi interés por el desarrollo web, soy una gran fanática de los vide
 
 Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros y artistas, y encuentro en la música una forma de expresión y conexión emocional.
 
-Como estudiante de desarrollo de aplicaciones web, estoy emocionada por combinar mis intereses en los videojuegos, la música y la tecnología. Me encantaría explorar la creación de aplicaciones web interactivas relacionadas con la música y los videojuegos, y utilizar mi conocimiento para brindar experiencias únicas y atractivas a los usuarios.
-
 ### 🎵Música que escucho
  -  Slow Down - Chase Atlantic💫 </br>
  -  Tuta Gold - Mahmood🏆 </br>
  -  Do I Wanna Know? - Artic Monkeys🕶️ </br>
+
+### 💻Tecnologías que uso
+<p align=center>
+  <img src="./imgs/github.png" width=5% align=center />
+  <img src="./imgs/gitkraken.png" width=5% align=center />
+  <img src="./imgs/kotlin.png" width=5% align=center />
+  <img src="./imgs/html.png" width=5% align=center />
+  <img src="./imgs/css.png" width=5% align=center />
+  <img src="./imgs/mysql.png" width=5% align=center />
+  <img src="./imgs/sqlite.png" width=5% align=center />
+</p>
 
 ### 📩Contacto
 Para contactar conmigo, puedes hacerlo a través de:
