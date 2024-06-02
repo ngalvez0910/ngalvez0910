@@ -18,7 +18,4 @@ Como estudiante de desarrollo de aplicaciones web, estoy emocionada por combinar
 
 <h2>Música que escucho</h2>
  -  Slow Down - Chase Atlantic💫 </br>
- -  Natural - Imagine Dragons🎶 </br>
- -  RED - The Rose🥀 </br>
- -  Espresso - Sabrina Carpenter☕✨ </br>
  -  Tuta Gold - Mahmood🏆 </br>
