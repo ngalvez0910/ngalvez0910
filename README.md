@@ -1,6 +1,6 @@
 <img src="./imgs/banner.png" alt="Banner" borderRadius='1rem' boxShadow = '0 3px 10px rgba(0,0,0,0.3)' align="center">
 
-<h1>¡¡Hola, soy Natalia González!!☀️</h1>
+# ¡¡Hola, soy Natalia González!!☀️
 
 <img src="./imgs/octocat.png" width=24% align=left />
 
@@ -16,6 +16,17 @@ Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros 
 
 Como estudiante de desarrollo de aplicaciones web, estoy emocionada por combinar mis intereses en los videojuegos, la música y la tecnología. Me encantaría explorar la creación de aplicaciones web interactivas relacionadas con la música y los videojuegos, y utilizar mi conocimiento para brindar experiencias únicas y atractivas a los usuarios.
 
-<h2>Música que escucho</h2>
+### 🎵Música que escucho
  -  Slow Down - Chase Atlantic💫 </br>
  -  Tuta Gold - Mahmood🏆 </br>
+ -  Do I Wanna Know? - Artic Monkeys🕶️ </br>
+
+
+### 📩Contacto
+Para contactar conmigo, puedes hacerlo a través de:
+
+<p align="center">
+<a href="https://github.com/ngalvez0910">
+  <img src="./imgs/github.png" width=7% align=center />
+</a>
+</p>
