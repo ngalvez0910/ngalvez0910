@@ -28,11 +28,14 @@ Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros 
   <img src="./imgs/css.png" width=5% align=center />
   <img src="./imgs/mysql.png" width=5% align=center />
   <img src="./imgs/sqlite.png" width=5% align=center />
+  <br>
   <img src="./imgs/dockerLogo.png" width=5% align=center />
   <img src="./imgs/postman.svg" width=6% align=center />
   <img src="./imgs/springboot.png" width=5% align=center />
   <img src="./imgs/postgres.png" width=5% align=center />
   <img src="./imgs/mariadb.svg" width=5% align=center />
+  <img src="./imgs/bootstrap.png" width=5% align=center />
+  <img src="./imgs/javascript.png" width=5% align=center />
 </p>
 
 ### 📩Contacto
