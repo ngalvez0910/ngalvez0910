@@ -28,6 +28,7 @@ Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros 
   <img src="./imgs/css.png" width=5% align=center />
   <img src="./imgs/mysql.png" width=5% align=center />
   <img src="./imgs/sqlite.png" width=5% align=center />
+  <img src="./imgs/java.png" width=5% align=center />
   <br>
   <img src="./imgs/dockerLogo.png" width=5% align=center />
   <img src="./imgs/postman.svg" width=6% align=center />
