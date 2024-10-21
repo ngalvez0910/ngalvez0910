@@ -43,12 +43,7 @@ Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros 
 Para contactar conmigo, puedes hacerlo a través de:
 
 <p align=center>
-  <a href="https://github.com/ngalvez0910">
-    <img src="./imgs/github.png" width=5% align=center />
-  </a>
-  <a href="https://www.linkedin.com/in/natalia-gonz%C3%A1lez-%C3%A1lvarez-83ba53303/">
-    <img src="./imgs/linkedin.png" width=4% align=center />
-  </a>
+    <img src="./imgs/linkedin.png" href="https://www.linkedin.com/in/natalia-gonz%C3%A1lez-%C3%A1lvarez-83ba53303/" width=4% align=center />
   <a href="mailto:nagonal2004@gmail.com">
     <img src="./imgs/email.png" width=5% align=center />
   </a>
