@@ -14,11 +14,6 @@ Además de mi interés por el desarrollo web, soy una gran fanática de los vide
 
 Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros y artistas, y encuentro en la música una forma de expresión y conexión emocional.
 
-### 🎵Música que escucho
- -  Slow Down - Chase Atlantic💫 </br>
- -  Tuta Gold - Mahmood🏆 </br>
- -  Do I Wanna Know? - Artic Monkeys🕶️ </br>
-
 ### 💻Tecnologías que uso
 <p align=center>
   <img src="./imgs/github.png" width=5% align=center />
