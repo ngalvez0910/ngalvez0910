@@ -53,3 +53,6 @@ Para contactar conmigo, puedes hacerlo a través de:
     <img src="./imgs/email.png" width=5% align=center />
   </a>
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngalvez0910&show_icons=true&theme=radical)
