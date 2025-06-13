@@ -27,6 +27,8 @@ Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros 
   <img src="./imgs/netCore.png" width=6% align=center />
   <img src="./imgs/springboot.png" width=5% align=center />
   <img src="./imgs/postman.svg" width=6% align=center />
+  <img src="./imgs/php.png" width=6% align=center />
+  <img src="./imgs/laravel.png" width=5% align=center />
   <br>
   <img src="./imgs/mysql.png" width=5% align=center />
   <img src="./imgs/sqlite.png" width=5% align=center />
@@ -40,6 +42,7 @@ Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros 
   <img src="./imgs/bootstrap.png" width=6% align=center />
   <img src="./imgs/javascript.png" width=5% align=center />
   <img src="./imgs/angular.png" width=6% align=center />
+  <img src="./imgs/vue.png" width=5% align=center />
 </p>
 
 ### 📩Contacto
