@@ -10,12 +10,12 @@ Técnica Superior en Desarrollo de Aplicaciones Web y actualmente ingeniera de d
 Me encanta aprender idiomas y explorar nuevas culturas.  
 
 **Idiomas que hablo:**  
-- 🇬🇧 Inglés – C1  
-- 🇫🇷 Francés – Básico  
+- <img src="https://flagcdn.com/16x12/gb.png" width="20"/> Inglés – C1  
+- <img src="https://flagcdn.com/16x12/fr.png" width="20"/> Francés – Básico  
 
 **Idiomas que estoy aprendiendo:**  
-- 🇮🇹 Italiano – Básico  
-- 🇰🇷 Coreano – Básico / Autodidacta
+- <img src="https://flagcdn.com/16x12/it.png" width="20"/> Italiano – Básico  
+- <img src="https://flagcdn.com/16x12/kr.png" width="20"/> Coreano – Básico / Autodidacta
 
 
 ### 💻Tecnologías y herramientas que uso
