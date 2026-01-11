@@ -3,7 +3,7 @@
 # ¡Hola, soy Natalia González!☀️
 
 
-Desarrolladora web con formación en Desarrollo de Aplicaciones Web y actualmente ingeniera de datos en BBVA Technology. Apasionada por la tecnología, el desarrollo de soluciones eficientes y el trabajo con datos, siempre enfocada en la calidad, la optimización y las buenas prácticas.
+Técnica Superior en Desarrollo de Aplicaciones Web y actualmente ingeniera de datos en BBVA Technology. Apasionada por la tecnología, el desarrollo de soluciones eficientes y el trabajo con datos, siempre enfocada en la calidad, la optimización y las buenas prácticas.
 
 ### 💻Tecnologías que uso
 <p align=center>
@@ -47,6 +47,3 @@ Para contactar conmigo, puedes hacerlo a través de:
     <img src="./imgs/email.png" width=5% align=center />
   </a>
 </p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngalvez0910&show_icons=true&theme=radical)
