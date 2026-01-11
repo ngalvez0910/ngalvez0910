@@ -2,17 +2,8 @@
 
 # ¡Hola, soy Natalia González!☀️
 
-<img src="./imgs/octocat.png" width=23% align=left />
 
-Soy una estudiante de desarrollo de aplicaciones web💻. Me encanta sumergirme en el mundo de la tecnología y utilizar mis habilidades para crear experiencias interactivas en línea.
-
-Además de mi interés por el desarrollo web, soy una gran fanática de los videojuegos🎮. Me encanta la emoción y la creatividad que se encuentran en ellos. Mi favorito sin duda alguna debe de ser VALORANT.
-
-<p align="center">
-<img src="./imgs/valorant.png" width=4% align=center />
-</p>
-
-Otra de mis grandes pasiones es la música🎵. Disfruto de diferentes géneros y artistas, y encuentro en la música una forma de expresión y conexión emocional.
+Desarrolladora web con formación en Desarrollo de Aplicaciones Web y actualmente ingeniera de datos en BBVA Technology. Apasionada por la tecnología, el desarrollo de soluciones eficientes y el trabajo con datos, siempre enfocada en la calidad, la optimización y las buenas prácticas.
 
 ### 💻Tecnologías que uso
 <p align=center>
