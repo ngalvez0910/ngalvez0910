@@ -10,6 +10,7 @@ Técnica Superior en Desarrollo de Aplicaciones Web y actualmente ingeniera de d
 Me encanta aprender idiomas y explorar nuevas culturas.  
 
 **Idiomas que hablo:**  
+- <img src="https://flagcdn.com/16x12/es.png" width="20"/> Castellano – Nativo
 - <img src="https://flagcdn.com/16x12/gb.png" width="20"/> Inglés – C1  
 - <img src="https://flagcdn.com/16x12/fr.png" width="20"/> Francés – Básico  
 
