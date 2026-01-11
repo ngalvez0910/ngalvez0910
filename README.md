@@ -18,7 +18,8 @@ Me encanta aprender idiomas y explorar nuevas culturas.
 - <img src="https://flagcdn.com/16x12/kr.png" width="20"/> Coreano – Básico / Autodidacta
 
 
-### 💻Tecnologías y herramientas que uso
+## 💻Tecnologías y herramientas que uso
+
 <p align=center>
   <img src="./imgs/github.png" width=5% align=center />
   <img src="./imgs/gitkraken.png" width=5% align=center />
@@ -51,7 +52,9 @@ Me encanta aprender idiomas y explorar nuevas culturas.
   <img src="./imgs/vue.png" width=5% align=center />
 </p>
 
-### 📩Contacto
+
+## 📩Contacto
+
 Para contactar conmigo, puedes hacerlo a través de:
 
 <p align=center>
