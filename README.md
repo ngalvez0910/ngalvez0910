@@ -11,6 +11,7 @@ Técnica Superior en Desarrollo de Aplicaciones Web y actualmente ingeniera de d
   <img src="./imgs/gitkraken.png" width=5% align=center />
   <img src="./imgs/git.png" width=5% align=center />
   <img src="./imgs/dockerLogo.png" width=5% align=center />
+  <img src="./imgs/aws.png" width=5% align=center />
   
   <img src="./imgs/kotlin.png" width=5% align=center />
   <img src="./imgs/java.png" width=5% align=center />
