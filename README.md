@@ -5,6 +5,19 @@
 
 Técnica Superior en Desarrollo de Aplicaciones Web y actualmente ingeniera de datos en BBVA Technology. Apasionada por la tecnología, el desarrollo de soluciones eficientes y el trabajo con datos, siempre enfocada en la calidad, la optimización y las buenas prácticas.
 
+## 🌐 Idiomas
+
+Me encanta aprender idiomas y explorar nuevas culturas.  
+
+**Idiomas que hablo:**  
+- 🇬🇧 Inglés – C1  
+- 🇫🇷 Francés – Básico  
+
+**Idiomas que estoy aprendiendo:**  
+- 🇮🇹 Italiano – Básico  
+- 🇰🇷 Coreano – Básico / Autodidacta
+
+
 ### 💻Tecnologías y herramientas que uso
 <p align=center>
   <img src="./imgs/github.png" width=5% align=center />
