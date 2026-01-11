@@ -5,7 +5,7 @@
 
 Técnica Superior en Desarrollo de Aplicaciones Web y actualmente ingeniera de datos en BBVA Technology. Apasionada por la tecnología, el desarrollo de soluciones eficientes y el trabajo con datos, siempre enfocada en la calidad, la optimización y las buenas prácticas.
 
-### 💻Tecnologías que uso
+### 💻Tecnologías y herramientas que uso
 <p align=center>
   <img src="./imgs/github.png" width=5% align=center />
   <img src="./imgs/gitkraken.png" width=5% align=center />
@@ -28,6 +28,7 @@ Técnica Superior en Desarrollo de Aplicaciones Web y actualmente ingeniera de d
   <img src="./imgs/mariadb.svg" width=5% align=center />
   <img src="./imgs/redis.webp" width=5% align=center />
   <img src="./imgs/mongo.svg" width=5% align=center />
+  <img src="./imgs/pandas.ico" width=5% align=center />
   
   <img src="./imgs/html.png" width=5% align=center />
   <img src="./imgs/css.png" width=5% align=center />
